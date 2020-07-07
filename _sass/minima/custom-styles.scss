@@ -8,4 +8,20 @@
 /*----- ADD YOUR STYLES BELOW -------*/
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
-@import "minima/fastpages-dracula-highlight"; 
+/* @import "minima/fastpages-dracula-highlight";  */
+
+.site-header {
+    border-top: 5px solid #424242;
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 55.95px;
+    line-height: 80px;
+    position: relative;
+}
+
+.site-title {
+    font-size: 2.6rem;
+    font-weight: 300;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
