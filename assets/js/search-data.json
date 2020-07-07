@@ -37,6 +37,17 @@
   
 
   
+      ,"page6": {
+          "title": "Support",
+          "content": "Making great content, performing analysis, and building tools takes a significant amount of time and effort. .",
+          "url": "https://robertritz.github.io/songolt-org/support/",
+          "relUrl": "/support/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -48,7 +59,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://robertritz.github.io/songolt-org/robots.txt",
