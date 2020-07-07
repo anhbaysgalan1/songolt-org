@@ -12,4 +12,4 @@ There are many unique things about Mongolia.
 
 As interesting as the first three points are, the last one is the most important. Mongolia's democracy is young, and its civil society is still being developed. We believe that data science that leverages public data can support democracy in Mongolia by providing transparency, tools, and analysis to citizens, activists, and journalists. 
 
-> Information is the currency of democracy.
+> ### Information is the currency of democracy.
