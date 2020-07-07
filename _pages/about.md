@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Songolt
+title: About
 permalink: /about/
 ---
 
