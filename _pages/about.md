@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About Me
+title: About Songolt
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+There are many unique things about Mongolia.
+- Sheep outnumber people by more than 9 to 1. 
+- It is the least densely populated soverign nation (2 people per km2)
+- It has the coldest capital city in the world.
+- It is the only country in Central Asia with a "Free" rating by [Freedom House](https://freedomhouse.org/explore-the-map?type=fiw&year=2020&country=MNG). 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+As interesting as the first three points are, the last one is the most important. Mongolia's democracy is young, and it's civil society is still being developed. We believe that data science leveraging public data can support democracy in Mongolia by providing transparency, tools, and analysis to citizens, activists, and journalists. 
