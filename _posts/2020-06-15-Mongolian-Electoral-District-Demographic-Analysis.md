@@ -1,5 +1,16 @@
-# Mongolian Electoral District Demographic Analysis
-### 2020 Parliamentary Election
+---
+title: "Mongolian Electoral District Demographic Analysis"
+description: "Comparing demographics of Mongolian electoral districts for the 2020 parliamentary election."
+layout: post
+toc: false
+comments: true
+image: images/electoral-district-analysis/cover.png
+hide: false
+search_exclude: false
+categories: [Mongolia, election, tool]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
+---
 
 The current election saw a switch back to the block voting system used in 1992 and 2008. This system has both [positives and negatives](http://blogs.ubc.ca/mongolia/2019/plurality-at-large-voting-revisited-for-2020/), and this system has much larger election districts than the previous single-member districts of the 2016 election. This allows us to more easily analyze the districts with the available data.
 
