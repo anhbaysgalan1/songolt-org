@@ -26,6 +26,8 @@ Several themes developed through my research into this data. These themes are pe
 ### Ulaanbaatar vs Countryside
 Perhaps the best-known difference in Mongolia is that of Ulaanbaatar and the countryside. The image of busy urban Ulaanbaatar juxtaposed with the bucolic countryside could hardly be more different. Indeed the data shows significant differences in many areas. Let’s compare the population pyramid for the election district with the highest population, Songinokhairkhan District in Ulaanbaatar, with the least populace, Bulgan Aimag.
 
+![](images/electoral-district-analysis/population-pyramid.png)
+
 
 There is an obvious population difference, but the size of the age groups also shows a marked difference between the two. Where you have a large spike in the 20–40 age group in Songinokhairkhan, Bulgans’ age groups have much less variability and are quite flat from 15–50. You will see a similar trend in the highest population election districts compared with the least populated ones.
 
