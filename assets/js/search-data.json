@@ -8,7 +8,7 @@
       "page1": {
           "title": "About",
           "content": "There are many unique things about Mongolia. . Sheep outnumber people by more than 9 to 1. | It is the least densely populated sovereign nation (2 people per km2) | It has the coldest capital city in the world. | It is the only country in Central Asia with a “Free” rating by Freedom House. | . As interesting as the first three points are, the last one is the most important. Mongolia’s democracy is young, and its civil society is still being developed. We believe that data science that leverages public data can support democracy in Mongolia by providing transparency, tools, and analysis to citizens, activists, and journalists. . Information is the currency of democracy. .",
-          "url": "https://robertritz.github.io/songolt-org/about/",
+          "url": "https://songolt.org/about/",
           "relUrl": "/about/",
           "date": ""
       }
@@ -29,7 +29,7 @@
       ,"page6": {
           "title": "Support",
           "content": "Making great content, performing analysis, and building tools takes a significant amount of time and effort. Support the creation of analysis, data, and tools for Mongolian civil society by becoming a supporter on Patreon. . Our Supporters . No supporters yet! Want to support data science for Mongolia’s future? Become a patron on Patreon. .",
-          "url": "https://robertritz.github.io/songolt-org/support/",
+          "url": "https://songolt.org/support/",
           "relUrl": "/support/",
           "date": ""
       }
@@ -51,7 +51,7 @@
       ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://robertritz.github.io/songolt-org/robots.txt",
+          "url": "https://songolt.org/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }

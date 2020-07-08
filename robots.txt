@@ -1,1 +1,1 @@
-Sitemap: https://robertritz.github.io/songolt-org/sitemap.xml
+Sitemap: https://songolt.org/sitemap.xml
