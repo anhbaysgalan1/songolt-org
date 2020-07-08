@@ -1,5 +1,16 @@
-# Mongolian Electoral District Demographic Analysis
-### 2020 Parliamentary Election
+---
+title: "Mongolian Electoral District Demographic Analysis"
+description: "Comparing demographics of Mongolian electoral districts for the 2020 parliamentary election."
+layout: post
+toc: false
+comments: true
+image: images/electoral-district-analysis/cover.png
+hide: false
+search_exclude: false
+categories: [Mongolia, election, tool]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
+---
 
 The current election saw a switch back to the block voting system used in 1992 and 2008. This system has both [positives and negatives](http://blogs.ubc.ca/mongolia/2019/plurality-at-large-voting-revisited-for-2020/), and this system has much larger election districts than the previous single-member districts of the 2016 election. This allows us to more easily analyze the districts with the available data.
 
@@ -14,6 +25,8 @@ Several themes developed through my research into this data. These themes are pe
 
 ### Ulaanbaatar vs Countryside
 Perhaps the best-known difference in Mongolia is that of Ulaanbaatar and the countryside. The image of busy urban Ulaanbaatar juxtaposed with the bucolic countryside could hardly be more different. Indeed the data shows significant differences in many areas. Let’s compare the population pyramid for the election district with the highest population, Songinokhairkhan District in Ulaanbaatar, with the least populace, Bulgan Aimag.
+
+![](images/electoral-district-analysis/population-pyramid.png)
 
 
 There is an obvious population difference, but the size of the age groups also shows a marked difference between the two. Where you have a large spike in the 20–40 age group in Songinokhairkhan, Bulgans’ age groups have much less variability and are quite flat from 15–50. You will see a similar trend in the highest population election districts compared with the least populated ones.
