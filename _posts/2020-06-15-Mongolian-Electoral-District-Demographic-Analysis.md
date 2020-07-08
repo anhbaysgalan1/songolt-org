@@ -33,8 +33,12 @@ There is an obvious population difference, but the size of the age groups also s
 
 This means the voting demographics in rural areas are more widely distributed than in urban areas. D.Byambjav and E.Gerelt-Od [previously discussed](http://blogs.ubc.ca/mongolia/2020/voter-demography/) the large and less engaged block of voters under 35. If youth engagement initiatives are successful, this block of voters will be less powerful in rural districts that have a similar age distribution to Bulgan.
 
+![](images/electoral-district-analysis/population-unemployed.png)
 
 Employment differs significantly as well between Ulaanbaatar and most rural districts. Rural election districts tend to show significantly higher rates of overall employment than the urban ones. In the chart above, the “employed percentage” refers to the proportion of the working-age population that is employed. Urban districts tend to have between 45–55% employment, with rural districts between 65–75%.
+
+
+![](images/electoral-district-analysis/average-salary.png)
 
 
 Salaries are also significantly higher in Ulaanbaatar. The salaries shown above are self-reported from 2016, but they show a very clear picture. Employment levels may be higher in rural areas, but salary levels are conversely lower. This is an obvious area where the [economic policy of the party platforms](http://blogs.ubc.ca/mongolia/2020/guest-post-economic-policy-party-platforms/) could address these inequalities.
