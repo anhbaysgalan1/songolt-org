@@ -46,20 +46,20 @@ The Ulaanbaatar vs countryside theme may be the biggest theme in the data, it do
 
 The first is that the two primary mining areas of Mongolia, Erdenet (in Orkhon) and Oyu Toloig (in Umnugovi), show significantly higher salaries, lower loan rates, and higher educations than other rural election districts.
 
-![](https://songolt.org/images/electoral-district-analysis/household-loans)
+![](https://songolt.org/images/electoral-district-analysis/household-loans.png)
 
 This bubble plot shows the percent of households with loans vs monthly average salaries in each election district. The two highlighted in red are Orkhon (lower right) and Umnugovi (upper left). All of the bubbles above 550k average monthly salary except for the two in red are located in Ulaanbaatar.
 
 These two election districts (and the urban workforce where the company offices are) have benefited heavily from the mining industry of Mongolia. Industrialization as proposed in the party platforms would most likely further benefit these areas, as this is where the raw materials would come from.
 
-![](https://songolt.org/images/electoral-district-analysis/household-loans2)
+![](https://songolt.org/images/electoral-district-analysis/household-loans2.png)
 
 The second outlier is Bayan-Ulgii. In the chart above, the red bubble to the farthest left is Bayan-Ulgii, and the red bubble on the far right is Khan-Uul District. The average household size is 5.2, significantly larger than the most populace district Songinokhairkhan of 3.8. Besides larger family sizes, Bayan-Ulgii has the lowest average monthly salary.
 
 ### Ulaanbaatar Districts Have Diverse Needs
 The districts of Ulaanbaatar also show diverse needs. Every district also contains part of the ger district. This means that there is a mix of urban and peri-urban in every election district of Ulaanbaatar. In the center of the city, households are connected to the central water, heating, and sewage systems. In the ger district, living standards become sharply different, with no central heat or water connections.
 
-![](https://songolt.org/images/electoral-district-analysis/heating-type)
+![](https://songolt.org/images/electoral-district-analysis/heating-type.png)
 
 The unique layout of the city districts ensures that at least 20% of the population of each district uses pit toilets and wood or coal for heat. More than 40% of Khan-Uul district households, the most affluent election district in Mongolia, use ordinary wood and coal stoves for heat.
 
