@@ -10,6 +10,10 @@ Linked domain: https://songolt.org
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
+## Blog Categories
+- Analysis
+- Data
+- Tools
 
 ## What To Do Next?
 
