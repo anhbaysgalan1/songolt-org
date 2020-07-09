@@ -7,7 +7,7 @@ comments: true
 image: images/electoral-district-analysis/cover.png
 hide: false
 search_exclude: false
-categories: [analysis, election, tool, Mongolia]
+categories: [tools, election, tool, Mongolia]
 ---
 
 The current election saw a switch back to the block voting system used in 1992 and 2008. This system has both [positives and negatives](http://blogs.ubc.ca/mongolia/2019/plurality-at-large-voting-revisited-for-2020/), and this system has much larger election districts than the previous single-member districts of the 2016 election. This allows us to more easily analyze the districts with the available data.
