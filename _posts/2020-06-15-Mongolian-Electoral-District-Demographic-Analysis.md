@@ -7,7 +7,7 @@ comments: true
 image: images/electoral-district-analysis/cover.png
 hide: false
 search_exclude: false
-author: robert_ritz
+author: Robert Ritz
 categories: [tools, election]
 ---
 
