@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Songolt Announcement",
+            "content": "There are many unique things about Mongolia. . It is the least densely populated sovereign nation (2 people per km2) | It has the coldest capital city in the world. | It is the only country in Central Asia with a “Free” rating by Freedom House. | . As interesting as the first two points are, the last one is the most important. Mongolia’s democracy is young, and its civil society is still being developed. Mongolia is a shining light of democracy in a sea of authoritarianism. Songolt was created to give public data, analysis, and tools to civil society organizations and the public in general. We believe that with the right data and tools the Mongolian people can defend and promote the young and vibrant democracy they have worked so hard to create. . Information is the currency of democracy. . About Robert Ritz . Robert Ritz is the creator of Songolt.org. He is a Data Scientist and Director of LETU Mongolia American University. He believes that data science for social good will be one of the most important forces in the 21st century. You can contact Robert at robertritz@outlook.com. .",
+            "url": "https://songolt.org/2020/07/01/songolt-announcement.html",
+            "relUrl": "/2020/07/01/songolt-announcement.html",
+            "date": " • Jul 1, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Mongolian Electoral District Demographic Analysis",
             "content": "The current election saw a switch back to the block voting system used in 1992 and 2008. This system has both positives and negatives, and this system has much larger election districts than the previous single-member districts of the 2016 election. This allows us to more easily analyze the districts with the available data. . To put all of the data together and make it user friendly, I built election.songolt.org, an interactive data explorer that allows the reader to see key indicators of election districts. The indicators covered in the app include: . Population indicators: population, household size, herder percent, age group breakdown | Economic indicators (self-reported): salary, household loans, employment, education levels | Quality of life indicators: crime, house type, toilet &amp; water type, heating type The data was collected from 1212.mn and also the Household Socioeconomic Survey of 2016, which is the latest survey that contains precise geographic labeling. Both data sources are maintained by the National Statistics Office of Mongolia. | . Several themes developed through my research into this data. These themes are perhaps not surprising for many readers familiar with Mongolia, but it is never a bad thing to back up observations with data. I encourage you, the reader, to explore the app yourself (link), but below I give an overview of the themes for your convenience. . Ulaanbaatar vs Countryside . Perhaps the best-known difference in Mongolia is that of Ulaanbaatar and the countryside. The image of busy urban Ulaanbaatar juxtaposed with the bucolic countryside could hardly be more different. Indeed the data shows significant differences in many areas. Let’s compare the population pyramid for the election district with the highest population, Songinokhairkhan District in Ulaanbaatar, with the least populace, Bulgan Aimag. . . There is an obvious population difference, but the size of the age groups also shows a marked difference between the two. Where you have a large spike in the 20–40 age group in Songinokhairkhan, Bulgans’ age groups have much less variability and are quite flat from 15–50. You will see a similar trend in the highest population election districts compared with the least populated ones. . This means the voting demographics in rural areas are more widely distributed than in urban areas. D.Byambjav and E.Gerelt-Od previously discussed the large and less engaged block of voters under 35. If youth engagement initiatives are successful, this block of voters will be less powerful in rural districts that have a similar age distribution to Bulgan. . . Employment differs significantly as well between Ulaanbaatar and most rural districts. Rural election districts tend to show significantly higher rates of overall employment than the urban ones. In the chart above, the “employed percentage” refers to the proportion of the working-age population that is employed. Urban districts tend to have between 45–55% employment, with rural districts between 65–75%. . . Salaries are also significantly higher in Ulaanbaatar. The salaries shown above are self-reported from 2016, but they show a very clear picture. Employment levels may be higher in rural areas, but salary levels are conversely lower. This is an obvious area where the economic policy of the party platforms could address these inequalities. . Outliers: Mining Areas and Bayan-Ulgii . The Ulaanbaatar vs countryside theme may be the biggest theme in the data, it doesn’t give the full picture. There are two sets of outliers that “buck the trend”. . The first is that the two primary mining areas of Mongolia, Erdenet (in Orkhon) and Oyu Toloig (in Umnugovi), show significantly higher salaries, lower loan rates, and higher educations than other rural election districts. . . This bubble plot shows the percent of households with loans vs monthly average salaries in each election district. The two highlighted in red are Orkhon (lower right) and Umnugovi (upper left). All of the bubbles above 550k average monthly salary except for the two in red are located in Ulaanbaatar. . These two election districts (and the urban workforce where the company offices are) have benefited heavily from the mining industry of Mongolia. Industrialization as proposed in the party platforms would most likely further benefit these areas, as this is where the raw materials would come from. . . The second outlier is Bayan-Ulgii. In the chart above, the red bubble to the farthest left is Bayan-Ulgii, and the red bubble on the far right is Khan-Uul District. The average household size is 5.2, significantly larger than the most populace district Songinokhairkhan of 3.8. Besides larger family sizes, Bayan-Ulgii has the lowest average monthly salary. . Ulaanbaatar Districts Have Diverse Needs . The districts of Ulaanbaatar also show diverse needs. Every district also contains part of the ger district. This means that there is a mix of urban and peri-urban in every election district of Ulaanbaatar. In the center of the city, households are connected to the central water, heating, and sewage systems. In the ger district, living standards become sharply different, with no central heat or water connections. . . The unique layout of the city districts ensures that at least 20% of the population of each district uses pit toilets and wood or coal for heat. More than 40% of Khan-Uul district households, the most affluent election district in Mongolia, use ordinary wood and coal stoves for heat. . MPs Will Represent Very Diverse Groups . Regardless of the outcome of the election, it is clear that the needs of citizens in election districts are not uniform, and even the common trope of UB vs the rest doesn’t hold up completely. Even though Mongolia a small country with a heavy focus on mining, it isn’t clear that the party platforms address the inequalities mentioned above. . While the economics platforms of the DP, MPP, and Right Person Electorate all focus on heavy industry, it isn’t clear how heavy industry would help rural areas outside of the main mining areas lacking in high paying jobs, or whether it would increase employment levels in Ulaanbaatar. .",
             "url": "https://songolt.org/tools/election/2020/06/15/Mongolian-Electoral-District-Demographic-Analysis.html",
@@ -27,17 +38,6 @@
   
 
   
-      ,"page2": {
-          "title": "About",
-          "content": "There are many unique things about Mongolia. . It is the least densely populated sovereign nation (2 people per km2) | It has the coldest capital city in the world. | It is the only country in Central Asia with a “Free” rating by Freedom House. | . As interesting as the first two points are, the last one is the most important. Mongolia’s democracy is young, and its civil society is still being developed. Mongolia is a shining light of democracy in a sea of authoritarianism. Songolt was created to give public data, analysis, and tools to civil society organizations and the public in general. We believe that with the right data and tools the Mongolian people can defend and promote the young and vibrant democracy they have worked so hard to create. . Information is the currency of democracy. . About Robert Ritz . Robert Ritz is the creator of Songolt.org. He is a Data Scientist and Director of LETU Mongolia American University. He believes that data science for social good will be one of the most important forces in the 21st century. You can contact Robert at robertritz@outlook.com. .",
-          "url": "https://songolt.org/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -48,7 +48,7 @@
   
 
   
-      ,"page7": {
+      ,"page6": {
           "title": "Support",
           "content": "Making great content, performing analysis, and building tools takes a significant amount of time and effort. Support the creation of analysis, data, and tools for Mongolian civil society by becoming a supporter on Patreon. . Our Supporters . No supporters yet! Want to support data science for Mongolia’s future? Become a patron on Patreon. .",
           "url": "https://songolt.org/support/",
@@ -70,7 +70,7 @@
   
 
   
-      ,"page12": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://songolt.org/robots.txt",
