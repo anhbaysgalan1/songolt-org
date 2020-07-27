@@ -10,4 +10,4 @@ About one-third of its population are still nomadic herders, residing in the tra
 
 You can find the Wikipedia entry for Mongolia [here](https://en.wikipedia.org/wiki/Mongolia). 
 
-![](https://commons.wikimedia.org/wiki/File:UB_downtown.jpg#/media/File:UB_downtown.jpg "Credit: Wikimedia Commons")
+![](https://upload.wikimedia.org/wikipedia/commons/c/c2/UB_downtown.jpg "Credit: Wikimedia Commons")
