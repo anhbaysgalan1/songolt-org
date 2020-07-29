@@ -27,6 +27,17 @@
   
 
   
+      ,"page1": {
+          "title": "Datasets",
+          "content": "Coming Soon .",
+          "url": "https://songolt.org/datasets/",
+          "relUrl": "/datasets/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -37,7 +48,7 @@
   
 
   
-      ,"page5": {
+      ,"page6": {
           "title": "Support",
           "content": "Making great content, performing analysis, and building tools takes a significant amount of time and effort. Support the creation of analysis, data, and tools for Mongolian civil society by becoming a supporter on Patreon. . Our Supporters . No supporters yet! Want to support data science for Mongolia’s future? Become a patron on Patreon. .",
           "url": "https://songolt.org/support/",
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://songolt.org/robots.txt",
