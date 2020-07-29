@@ -27,17 +27,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Mongolia",
-          "content": "Mongolia is a land-locked country in Central Asia with a population of about 3.2 million people (2020 estimate). It is the least densely populated sovereign nation (2 per square kilometer). The primary industry is extractive (mostly coal, copper, gold, and silver), with both raw and finished cashmere following. . About one-third of its population are still nomadic herders, residing in the traditional ger, or yurt. Ulaanbaatar, the capital city, has a population of around 1.5 million, nearly half the population of the country. The city has been plagued with high levels of air pollution in the winter months. Recent government actions may be reducing this pollution, but more time is needed to be certain. . You can find the Wikipedia entry for Mongolia here. . .",
-          "url": "https://songolt.org/about-mongolia/",
-          "relUrl": "/about-mongolia/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -48,7 +37,7 @@
   
 
   
-      ,"page6": {
+      ,"page5": {
           "title": "Support",
           "content": "Making great content, performing analysis, and building tools takes a significant amount of time and effort. Support the creation of analysis, data, and tools for Mongolian civil society by becoming a supporter on Patreon. . Our Supporters . No supporters yet! Want to support data science for Mongolia’s future? Become a patron on Patreon. .",
           "url": "https://songolt.org/support/",
@@ -70,7 +59,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://songolt.org/robots.txt",
