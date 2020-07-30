@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
 ---
 
 There are many unique things about Mongolia.
