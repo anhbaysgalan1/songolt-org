@@ -4,7 +4,7 @@ description: "From monitoring agriculture to fighting government waste, remote s
 layout: post
 toc: true
 comments: true
-image: https://songolt.org/images/lake_khuvsgul.png
+image: Images/remote-sensing/lake_khuvsgul.png
 hide: false
 search_exclude: false
 author: Robert Ritz
