@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://songolt.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://songolt.org/" rel="alternate" type="text/html" /><updated>2020-08-04T09:52:21-05:00</updated><id>https://songolt.org/feed.xml</id><title type="html">Songolt</title><subtitle>Data Science for Mongolia's Future</subtitle><entry><title type="html">Executive Summary - Assessing COVID-19 Risk in Mongolia</title><link href="https://songolt.org/analysis/covid-19-risk-assessment-executive-summary/" rel="alternate" type="text/html" title="Executive Summary - Assessing COVID-19 Risk in Mongolia" /><published>2020-08-04T00:00:00-05:00</published><updated>2020-08-04T00:00:00-05:00</updated><id>https://songolt.org/analysis/COVID-risk-summary</id><content type="html" xml:base="https://songolt.org/analysis/covid-19-risk-assessment-executive-summary/">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://songolt.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://songolt.org/" rel="alternate" type="text/html" /><updated>2020-08-14T01:05:18-05:00</updated><id>https://songolt.org/feed.xml</id><title type="html">Songolt</title><subtitle>Data Science for Mongolia's Future</subtitle><entry><title type="html">5 Ways Mongolia Can Use Remote Sensing</title><link href="https://songolt.org/analysis/satellite/drones/2020/08/14/Five-ways-Mongolia-remote-sensing.html" rel="alternate" type="text/html" title="5 Ways Mongolia Can Use Remote Sensing" /><published>2020-08-14T00:00:00-05:00</published><updated>2020-08-14T00:00:00-05:00</updated><id>https://songolt.org/analysis/satellite/drones/2020/08/14/Five-ways-Mongolia-remote-sensing</id><content type="html" xml:base="https://songolt.org/analysis/satellite/drones/2020/08/14/Five-ways-Mongolia-remote-sensing.html">&lt;p&gt;&lt;img src=&quot;https://songolt.org/images/lake_khuvsgul.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As the least densely populated soverign nation (2 inhabitants per km&lt;sup&gt;2&lt;/sup&gt;), Mongolia has no lack of wide open spaces. Just a few kilometers outside the capital city, Ulaanbaatar, you will find vast expanses of steppe dotted with sheep, goats, cows, and the occasional horse herd. But this space also has a downside.&lt;/p&gt;
+
+&lt;p&gt;Simply put, driving around Mongolia is hard. Mongolia’s paved road network is mostly limited to connecting Ulaanbaatar with provincial capitals. Less than &lt;a href=&quot;https://www.adb.org/sites/default/files/linked-documents/48186-005-ssa.pdf&quot;&gt;25%&lt;/a&gt; of Mongolia’s road network is paved. This creates challenges for Mongolia’s government, civil society organizations, and private businesses. Obtaining accurate information about activities outside the capital or province capitals is very hard to obtain. Remote sensing techniques are one way to mitigate this challenge.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used#:~:text=Remote%20sensing%20is%20the%20process,sense%22%20things%20about%20the%20Earth.&quot;&gt;Remote sensing&lt;/a&gt;, or the the process of detecting physical characteristics of an area by measuring reflected radiation, can obtain accurate information for a relatively low cost. Remote sensing can take the form of satellite images that look much like a Google Maps image, but images can also contain a lot of information in the non-visible spectrum that can be analyzed for various purposes. In addition, technologies like radar and LIDAR (light detection and ranging &lt;strong&gt;or&lt;/strong&gt; light + radar) add to the types of information that can be obtained by satellites. Remote sensing is also not limited to satellites. Drones can be outfitted with similar types of sensors as satellites to gather information at a much finer detail.&lt;/p&gt;
+
+&lt;p&gt;Remote sensing techniques can be used in one area over a period of time for a much lower cost than having a large team gather data on foot. To illustrate how this could be done in Mongolia, I will describe &lt;strong&gt;five ways&lt;/strong&gt; remote sensing can be used to solve &lt;strong&gt;real challenges&lt;/strong&gt; Mongolia faces.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-cheaply-monitor-agriculture&quot;&gt;1. Cheaply monitor agriculture&lt;/h2&gt;
+
+&lt;p&gt;Mongolia has a long history of producing a limited range of vegetables, wheat, and other cereal crops. However, this domestic production does not always meet domestic demand, especially for wheat. With a short growing season, unpredictable rainfall, and large swings in temperature, Mongolia’s agriculture sector faces many challenges with food crops.&lt;/p&gt;
+
+&lt;p&gt;Normalized Difference Vegetation Index (NDVI) is one way to monitor crops cheaply and easily. By utilizing satellite imagery that is readily available, fields can be evaluated for the health of the crops over time. Here is an example of what an NDVI image looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cd/UAS_Enhanced_Agriculture_NDVI.png&quot; alt=&quot;&quot; title=&quot;An example NDVI image.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the above image you can see the darker areas of the image, which would correspond to lower biomass. The higher the value on the scale, generally the healthier the plants. Farms can use this data to target problem spots and generally understand how their fields are producing.&lt;/p&gt;
+
+&lt;p&gt;Accessing satellite imagery and performing a weekly NDVI analysis on every farm in Mongolia during the growing season is reasonable and cost effective. Expecting small and medium farm enterprises to accomplish this task is not though.&lt;/p&gt;
+
+&lt;p&gt;This type of analysis requires technical skills in both data engineering and IT infrastructure. Therefore a specialized program or office within the Ministry of Agriculture would be ideal. Given the national importance of meeting domestic demand of vegetables and cereals, it makes sense for the government to support farmers in this way.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-find-illegal-mining-or-construction&quot;&gt;2. Find illegal mining or construction&lt;/h2&gt;
+
+&lt;p&gt;Construction and mining are two areas of industry tightly regulated by the Mongolian government. Nevertheless, both illegal construction and illegal mining are considered to be relatively common. Mongolia’s large size makes discovering these illegal activities very challenging.&lt;/p&gt;
+
+&lt;p&gt;Using satellite imagery changes in forest cover or grass areas can be detected over time. In the image below, you can see an analysis completed that identified clear cut areas in Siberia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/remote-sensing/change-detection.png&quot; alt=&quot;&quot; title=&quot;Credit: Hüttich, Christian &amp;amp; Korets, Mikhail &amp;amp; Bartalev, Sergey &amp;amp; Zharko, Vasily &amp;amp; Schepaschenko, Dmitry &amp;amp; Shvidenko, Anatoly &amp;amp; Schmullius, Christiane. (2014). Exploiting Growing Stock Volume Maps for Large Scale Forest Resource Assessment: Cross-Comparisons of ASAR-and PALSAR-Based GSV Estimates with Forest Inventory in Central Siberia. Forests. 5. 1753-1776. 10.3390/f5071753. &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a similar methodology, areas of illegal construction or mining could be discovered. One limitation is that these areas would need to be sufficiently large to be detected. This means small illegal mining operations or individual buildings may not be detected unless sufficiently high resolution imagery becomes available.&lt;/p&gt;
+
+&lt;p&gt;If this change detection is combined with cadastral maps, construction permits, and mining permits, areas of illegal change could be more easily discovered.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-learn-where-nomads-live-and-how-they-move&quot;&gt;3. Learn where nomads live and how they move&lt;/h2&gt;
+
+&lt;p&gt;Nearly 20% of Mongolia’s households are nomadic herders. They have no addresses and they move several times a year. Since 1990 the number of animals these households herd has skyrocketed. In 2020 there are over 70 million herd animals, up from 20 million prior to 1990.&lt;/p&gt;
+
+&lt;p&gt;Here is an image from Google Earth showing a cluster of three gers in Zavkhan Aimag.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/remote-sensing/gers.PNG&quot; alt=&quot;&quot; title=&quot;Source: Google Earth&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By collecting and labeling enough images such as this one, and object detection model could be made to identify these gers around Mongolia. This would provide local governments, civil society organizations, and researchers to better understand how Mongolia’s vast lands are being used to support the ever increasing number of herd animals.&lt;/p&gt;
+
+&lt;p&gt;Plus, a “ger detector” sounds pretty cool right?&lt;/p&gt;
+
+&lt;h2 id=&quot;4-monitor-government-construction-projects&quot;&gt;4. Monitor government construction projects&lt;/h2&gt;
+
+&lt;p&gt;The summer season in Mongolia is really the only time construction projects can move forward. Consequently , the government has many construction projects occurring around the country at the same time. A few current projects include the New Darkhan Road, Tavan Tolgoi railway project, and the Maidar City project.&lt;/p&gt;
+
+&lt;p&gt;The Tavan Tolgoi railway project will reduce the cost to deliver coal to China significantly, increasing government revenues and potentially increasing the ability to export coal. The project was originally announced in 2012, received 280 million USD in funds from the Chinggis Bond in 2013, and has since been stalled. Construction of the base of the railway was said to be completed, but without an official audit little is known about the current state of construction. Satellite imagery could be used to give a low cost initial assessment without the significant cost of an in person audit.&lt;/p&gt;
+
+&lt;p&gt;In another situation, Dr. Julian Dierkes, a sociologist and keen Mongolian observer, asked the following question on Twitter.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;twitter: https://twitter.com/jdierkes/status/1287891294971285504&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The new Minister of Construction and Urban Development visited the Maidar City project. This project is designed to create a satellite city away from Ulaanbaatar to decentralize urban development in Mongolia. The image and text from Monstsame, the government run news agency, made the project appear to be progressing.&lt;/p&gt;
+
+&lt;p&gt;I replied to Dr. Dierkes tweet with the following screenshot taken from Planet Labs Explorer. This satellite image was taken just 7 days prior to the Ministers visit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/remote-sensing/maidar.png&quot; alt=&quot;&quot; title=&quot;Credit: Planet Labs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This image is nearly identical to the status of the construction site last year.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;twitter: https://twitter.com/jdierkes/status/1287959307678449664&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;5-flood-risk-survey&quot;&gt;5. Flood risk survey&lt;/h2&gt;
+
+&lt;p&gt;Every year summer brings rain to Mongolia, sometimes in large amounts that creates flooding around the country. In July 2020 [8 people died and 2,300 homes were damaged](http://floodlist.com/asia/mongolia-floods-july-2020 in flooding in several aimags (provinces).&lt;/p&gt;
+
+&lt;p&gt;By using remote sensing techniques a flood risk assessment could be created for the entire country or selected areas. Here is a flood hazard index map created for selected communities in Ghana, Burkina Faso and Benin. The government, insurance companies, and individuals could use these maps to plan ahead and hopefully prevent loss of life and property.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/remote-sensing/flood-risk.png&quot; alt=&quot;&quot; title=&quot;Credit: Daniel Asare-Kyei, Gerald Forkuor, and Valentijn Venus/ https://www.mdpi.com/2073-4441/7/7/3531/htm&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;thanks-for-reading&quot;&gt;Thanks for reading&lt;/h2&gt;
+
+&lt;p&gt;Thank you for reading Songolt.org. We believe that open and independent data science will be a positive force in an area of the world where authoritarianism is the norm. Our analysis, datasets, and tools are designed to help support Mongolia’s democracy and its people. By informing civil society organizations and citizens, we can strengthen their ability to operate, and therefore strengthen the democratic process that relies on them.&lt;/p&gt;
+
+&lt;p&gt;Our work is free from commercial or political influence. Through our work we can provide valuable insights that ordinary citizens and organizations couldn’t afford on their own. By supporting our work, you ensure that this work can continue and expand.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://songolt.org/support/&quot;&gt;Support Songolt.org so we can continue our work.&lt;/a&gt;&lt;/p&gt;</content><author><name>Robert Ritz</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://songolt.org/images/lake_khuvsgul.png" /><media:content medium="image" url="https://songolt.org/images/lake_khuvsgul.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Executive Summary - Assessing COVID-19 Risk in Mongolia</title><link href="https://songolt.org/analysis/covid-19-risk-assessment-executive-summary/" rel="alternate" type="text/html" title="Executive Summary - Assessing COVID-19 Risk in Mongolia" /><published>2020-08-04T00:00:00-05:00</published><updated>2020-08-04T00:00:00-05:00</updated><id>https://songolt.org/analysis/COVID-risk-summary</id><content type="html" xml:base="https://songolt.org/analysis/covid-19-risk-assessment-executive-summary/">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -18,7 +104,7 @@
 &lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
 &lt;p&gt;&lt;div class=&quot;flash&quot;&gt;
     &lt;svg class=&quot;octicon octicon-info octicon octicon-info octicon octicon-info octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Note: &lt;/strong&gt;This is the executive summary. To view the full article please click &lt;a href=&quot;https://songolt.org/analysis/risk/covid/2020/08/03/COVID-19-risk-analysis.html&quot;&gt;here&lt;/a&gt;. 
+    &lt;strong&gt;Note: &lt;/strong&gt;This is the executive summary. To view the full article, &lt;em&gt;Assessing COVID-19 Risk in Mongolia&lt;/em&gt;, please click &lt;a href=&quot;https://songolt.org/analysis/risk/covid/2020/08/03/COVID-19-risk-analysis.html&quot;&gt;here&lt;/a&gt;. 
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;/div&gt;
